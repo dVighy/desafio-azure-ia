@@ -27,8 +27,4 @@ Este repositório documenta minha jornada prática com os serviços de IA do Azu
 
 │ └── anotações.md
 
-├── images/ 
-
-│ └── capturas.png (opcional) 
-
 └── insights.md
