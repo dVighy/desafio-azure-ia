@@ -18,10 +18,17 @@ Este repositório documenta minha jornada prática com os serviços de IA do Azu
 
 📂 desafio-azure-ia/
 ├── README.md
+
 ├── speech-studio/
+
 │ └── anotações.md
+
 ├── language-studio/ 
+
 │ └── anotações.md
+
 ├── images/ 
+
 │ └── capturas.png (opcional) 
+
 └── insights.md
